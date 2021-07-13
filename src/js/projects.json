@@ -1,0 +1,62 @@
+{
+  "id": "1",
+  "title": "The Final Cut",
+  "subtitle": "Movie searcher web application",
+  "cover_url": "/the-final-cut/the-final-cut-1.png",
+  "functionality": [
+    { "desc": "Sign up / Sign in" },
+    { "desc": "Search movies by title" },
+    { "desc": "Pagination" },
+    { "desc": "Access movie's plot and information" },
+    { "desc": "Add / remove favourites" },
+    { "desc": "Log out" },
+    { "desc": "Delete account" }
+  ],
+  "technologies": [
+    { "name": "HTML5", "icon": "devicon-html5-plain colored" },
+    { "name": "CSS3", "icon": "devicon-css3-plain colored" },
+    { "name": "JavaScript", "icon": "devicon-javascript-plain colored" },
+    { "name": "React", "icon": "devicon-react-original colored" },
+    { "name": "Redux", "icon": "devicon-redux-original colored" },
+    { "name": "Bootstrap", "icon": "devicon-bootstrap-plain colored" },
+    { "name": "Node", "icon": "devicon-nodejs-plain colored" },
+    { "name": "Express", "icon": "ddevicon-express-original colored" },
+    { "name": "MongoDB", "icon": "devicon-mongodb-plain-wordmark colored" }
+  ],
+
+  "learnt": [
+    { "desc": "State management with Redux" },
+    { "desc": "React useState and useEffect hooks" },
+    { "desc": "Built backend with node / express" },
+    { "desc": "Model, controllers and routes " },
+    { "desc": "Express data validation" },
+    { "desc": "Integration with Mongoose service" },
+    { "desc": "Javascript array methods" },
+
+    { "desc": "React Bootstrap library" }
+  ],
+  "images": [
+    {
+      "url": "/the-final-cut/the-final-cut-1.png",
+      "alt": "picture 1"
+    },
+    {
+      "url": "/the-final-cut/the-final-cut-1.png",
+      "alt": "picture 2"
+    },
+    {
+      "url": "/the-final-cut/the-final-cut-1.png",
+      "alt": "picture 3"
+    },
+    {
+      "url": "/the-final-cut/the-final-cut-1.png",
+      "alt": "picture 4"
+    },
+    {
+      "url": "/the-final-cut/the-final-cut-1.png",
+      "alt": "picture 5"
+    }
+  ],
+  "url": "https://thawing-basin-65705.herokuapp.com",
+  "github_url": "https://github.com/simonsanchez92/the-final-cut-backend"
+}
